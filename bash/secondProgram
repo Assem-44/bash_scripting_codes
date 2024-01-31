@@ -1,0 +1,10 @@
+#! /bin/bash
+# this is your second program , we will do a simple program 
+# this program will take input from the user then display it in the secreen
+
+echo "enter your first name"
+read fname
+echo "enter your last name"
+read lname
+echo "your last name is "$lname
+echo "your first name is " $fname

@@ -1,0 +1,7 @@
+#! /bin/bash
+# this program should automate a backups for /home directory
+
+tar -czvf homeBackup.tar.gz /home
+
+echo " this program just done a backup to your home directory"
+

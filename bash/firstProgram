@@ -1,0 +1,5 @@
+#! /bin/bash
+
+# this is my first program and it will be the last I guess
+
+echo "hello CATian, this is the first test"
